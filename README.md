@@ -1,0 +1,2 @@
+# hiran.win
+cloudflare config
