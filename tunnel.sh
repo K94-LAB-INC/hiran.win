@@ -9,5 +9,3 @@ echo 'deb [signed-by=/usr/share/keyrings/cloudflare-public-v2.gpg] https://pkg.c
 sudo apt-get update && sudo apt-get install cloudflared
 
 sudo cloudflared service install eyJhIjoiNjA4ZGQ3NzZjYmZhYjgwYWNiZjNhOGZlMjExZThkZGYiLCJ0IjoiODI5MjFkNzItYmQ2My00ODMzLWEwM2YtMDNmNDVkYTNhNjZhIiwicyI6Ik5XUTRNekEyWTJRdFltWXdZaTAwTkROaExXSmxaR1V0Wm1VNFpUZGxNRGMzTjJNdyJ9
-
-cloudflared tunnel run --token eyJhIjoiNjA4ZGQ3NzZjYmZhYjgwYWNiZjNhOGZlMjExZThkZGYiLCJ0IjoiODI5MjFkNzItYmQ2My00ODMzLWEwM2YtMDNmNDVkYTNhNjZhIiwicyI6Ik5XUTRNekEyWTJRdFltWXdZaTAwTkROaExXSmxaR1V0Wm1VNFpUZGxNRGMzTjJNdyJ9
